@@ -1,0 +1,17 @@
+/* * {
+  box-sizing: border-box;
+}
+.app {
+  max-width: 1121px;
+  margin: 0 auto;
+  width: 75%;
+}
+.app__title {
+}
+.app__wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.app__form {
+} */
